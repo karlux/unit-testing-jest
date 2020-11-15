@@ -1,0 +1,1 @@
+export const callbackMain = callback => callback("Hola javascripters");
