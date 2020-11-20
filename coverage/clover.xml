@@ -1,27 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1605376167980" clover="3.2.0">
-  <project timestamp="1605376167980" name="All files">
-    <metrics statements="14" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="11" coveredmethods="11" elements="25" coveredelements="25" complexity="0" loc="14" ncloc="14" packages="1" files="4" classes="4"/>
-    <file name="arrays.js" path="/home/lumusitec/sistemas/javascript/testing/jest/platzitest/arrays.js">
+<coverage generated="1605831530378" clover="3.2.0">
+  <project timestamp="1605831530378" name="All files">
+    <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="14" coveredmethods="14" elements="31" coveredelements="31" complexity="0" loc="17" ncloc="17" packages="1" files="6" classes="6"/>
+    <file name="arrays.js" path="/home/lumusitec/Sistemas/js/testing/jest/unit-testing-jest/arrays.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="4" count="3" type="stmt"/>
       <line num="5" count="1" type="stmt"/>
     </file>
-    <file name="maths.js" path="/home/lumusitec/sistemas/javascript/testing/jest/platzitest/maths.js">
+    <file name="callbacks.js" path="/home/lumusitec/Sistemas/js/testing/jest/unit-testing-jest/callbacks.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+    </file>
+    <file name="maths.js" path="/home/lumusitec/Sistemas/js/testing/jest/unit-testing-jest/maths.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
       <line num="4" count="1" type="stmt"/>
     </file>
-    <file name="numbers.js" path="/home/lumusitec/sistemas/javascript/testing/jest/platzitest/numbers.js">
+    <file name="numbers.js" path="/home/lumusitec/Sistemas/js/testing/jest/unit-testing-jest/numbers.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="5" type="stmt"/>
     </file>
-    <file name="true.js" path="/home/lumusitec/sistemas/javascript/testing/jest/platzitest/true.js">
+    <file name="promise.js" path="/home/lumusitec/Sistemas/js/testing/jest/unit-testing-jest/promise.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="true.js" path="/home/lumusitec/Sistemas/js/testing/jest/unit-testing-jest/true.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
